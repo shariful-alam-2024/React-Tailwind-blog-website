@@ -1,0 +1,10 @@
+.active{
+  @apply text-orange-600 underline underline-offset-4 ease-in animate-pulse
+}
+.images{
+  background-image: url('/img1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  
+}
